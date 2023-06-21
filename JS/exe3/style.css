@@ -1,0 +1,12 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+    font-size: 25px;
+}
+body {
+    background-color: rgb(184, 180, 180);
+}
+
+.botoes {
+    text-align: center;
+}

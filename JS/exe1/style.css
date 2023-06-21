@@ -1,0 +1,27 @@
+*{
+    font-family: Arial;
+    box-sizing: border-box;
+}
+html, body{
+    height: 100%;
+  }
+  
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #222222;
+  
+}
+header {
+    border: 1px solid #f7f7f7;
+  padding: 4px 12px;
+  color: #f7f7f7;
+  font-size: 2em;
+  font-weight: 300;
+  border-radius: 4px;
+}
+
+
+
