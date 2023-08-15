@@ -1,0 +1,35 @@
+/* Add this CSS code in the "style.css" file */
+
+body {
+    background-color: #f5f5f5;
+    font-family: Arial, sans-serif;
+  }
+  
+  .jorge {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: cornflowerblue;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  p {
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  option {
+    background-color: #ffffff;
+  }
+  
+  option:hover {
+    background-color: #f5f5f5;
+  }
+  
