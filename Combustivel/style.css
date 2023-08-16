@@ -1,0 +1,67 @@
+/* Reset padrão para remover margens e preenchimentos */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Estilo de fundo para o corpo */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Estilo para o cabeçalho */
+h1 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+/* Estilo para a caixa de alerta */
+.alert {
+    background-color: #ffc107;
+    color: #333;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+
+/* Estilo para o resultado */
+.result {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-top: 20px;
+}
+
+/* Estilo para os números destacados */
+.big-number {
+    font-size: 28px;
+    font-weight: bold;
+    color: #007bff;
+}
+
+/* Estilo para a seção de resultados */
+.result p {
+    font-size: 18px;
+    color: #333;
+    margin-top: 10px;
+}
+
+/* Estilo para o rodapé */
+footer {
+    margin-top: 20px;
+    font-size: 14px;
+    color: #666;
+}
+
+/* Estilo para os elementos strong */
+strong {
+    font-weight: bold;
+}
